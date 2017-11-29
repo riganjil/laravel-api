@@ -1,0 +1,3 @@
+# No root access without index.*
+Options -FollowSymLinks -Indexes
+#DirectoryIndex index.php index.html index.htm
